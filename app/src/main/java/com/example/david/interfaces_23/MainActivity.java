@@ -41,28 +41,28 @@ public class MainActivity extends AppCompatActivity {
         album1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                setList(32);
+                setList(14);
             }
         });
 
         album2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                setList(10);
+                setList(8);
             }
         });
 
         album3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                setList(1);
+                setList(2);
             }
         });
 
         album4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                setList(24);
+                setList(26);
             }
         });
     }
