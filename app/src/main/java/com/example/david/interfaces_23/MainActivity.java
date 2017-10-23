@@ -1,4 +1,4 @@
-package com.example.jose.id_23;
+package com.example.david.interfaces_23;
 
 import android.graphics.Color;
 import android.support.v4.content.ContextCompat;
@@ -13,6 +13,9 @@ import android.view.View;
 import android.widget.GridLayout;
 import android.widget.GridLayout.LayoutParams;
 import android.widget.TextView;
+
+import com.example.david.interfaces_23.PhotosAdapter;
+import com.example.david.interfaces_23.R;
 
 
 public class MainActivity extends AppCompatActivity {

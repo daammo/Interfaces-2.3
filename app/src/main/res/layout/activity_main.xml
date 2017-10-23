@@ -6,11 +6,11 @@
     android:layout_height="match_parent"
     android:layout_margin="10dp"
     android:background="@android:color/darker_gray"
-    tools:context="com.example.jose.id_23.MainActivity">
+    tools:context="com.example.david.interfaces_23.MainActivity">
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="100dp"
         android:layout_alignParentLeft="true"
         android:layout_alignStart="@+id/textView"
@@ -23,7 +23,7 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="100dp"
         android:layout_alignParentLeft="true"
         android:layout_alignStart="@+id/textView"
@@ -37,13 +37,13 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="100dp"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/textView2"
         android:layout_margin="10dp"
         android:autoText="false"
-        android:background="@android:color/holo_blue_bright"
+        android:background="?android:attr/colorButtonNormal"
         android:paddingTop="35dp"
         android:text="Album 3"
         android:textAlignment="center"
@@ -51,7 +51,7 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="100dp"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView3"

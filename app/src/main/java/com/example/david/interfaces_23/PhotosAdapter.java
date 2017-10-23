@@ -1,4 +1,4 @@
-package com.example.jose.id_23;
+package com.example.david.interfaces_23;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -7,8 +7,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.example.david.interfaces_23.R;
+
 /**
- * Created by Jose on 20/10/2017.
+ * Created by David on 22/10/2017.
  */
 
 public class PhotosAdapter extends RecyclerView.Adapter<PhotosAdapter.ViewHolder> {
